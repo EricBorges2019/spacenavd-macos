@@ -5,6 +5,10 @@ spacenavd
 ![FreeBSD build status](https://github.com/FreeSpacenav/spacenavd/actions/workflows/build_freebsd.yml/badge.svg)
 ![MacOS X build status](https://github.com/FreeSpacenav/spacenavd/actions/workflows/build_macosx.yml/badge.svg)
 
+FORK
+-----
+This fork is for the purposes of implementing USB support for FreeSpacenav on MacOS
+
 About
 -----
 Spacenavd is a free software user-space driver (daemon), for 6-dof input
